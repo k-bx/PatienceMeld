@@ -113,7 +113,6 @@ def main():
         else:
             print path + " NO CONTENIDO"
 
-<<<<<<< HEAD
     contiene(tree, "Integralia/trunk/base/maestros/comunes/MaeDatosLogisticos.java")
     contiene(tree, "Integralia/trunk/base/objetosbd/Set.java")
     contiene(tree, "Integralia/trunk/base/objetosbd/Usuario.java")
@@ -135,8 +134,6 @@ def main():
     contiene(tree, "Integralia/trunk/base/procesos/configuracion/ConfiguracionTablas.java")
     contiene(tree, "Integralia/trunk/base/ui/actions/OpenKeyFormAction.ja")
     contiene(tree, "base/ui/dialog/LoginDialog.java")
-=======
->>>>>>> 4f00fb3... Cambios para utilizar las diferencias detectadas por rsync (y evitar una
     contiene(tree, "hola")
     contiene(tree, "adios/eco")
 
